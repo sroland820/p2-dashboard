@@ -64,7 +64,7 @@ template {
  */
 
 html {
-    font-family: cambria; /* 1 */
+    font-family: serif; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
 }

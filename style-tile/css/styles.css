@@ -45,3 +45,71 @@ section {
 	background: #45372E;
 
 }
+
+
+.imagery-1{
+	background-image: url("../img/imagery1.jpg");
+}
+.imagery-2{
+	background-image: url("../img/imagery2.jpg");
+
+}
+.imagery-3{
+	background-image: url("../img/imagery3.jpg");
+
+}
+
+
+.pattern-1{
+	background-image: url("../img/pattern1.jpg");
+
+}
+.pattern-2{
+	background-image: url("../img/pattern2.jpg");
+
+}
+
+.pattern-3{
+	background-image: url("../img/pattern3.jpg");
+
+}
+
+
+a{
+	font: georgia;
+	color: navy;
+	text-decoration: none;
+	
+}
+
+a:hover{
+	color:maroon;
+
+}
+
+h1{
+	font-family:Georgia;
+	font-style: bold;
+
+}
+
+em{
+	font-family: times;
+
+}
+
+h2{
+	font-family:Georgia;
+
+}
+
+h3{
+	font-family: "Palatino";
+
+}
+
+
+h4, p{
+	font-family: georgia;
+
+}
